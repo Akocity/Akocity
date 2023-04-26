@@ -17,7 +17,7 @@ Here is a little about me:
 
 
 ## 🚀 About Me
-Hi, I'm Joy. A full stack web development student at Zuri School. A Tech Enthusiast. Welcome to my profile!
+Hi, I'm Joy. An Entry-Level full stack web developer. A Digital Marketing Expert. A Tech Enthusiast. Welcome to my profile!
 I am currently studying computer science technology.
 
 ## 🛠 Skills
